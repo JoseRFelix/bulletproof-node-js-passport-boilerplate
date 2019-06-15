@@ -34,7 +34,7 @@ npm test
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://opensource.org/licenses/MIT).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Jfelix61/bulletproof-node-js-passport-boilerplate/issues).
 
 ## Show your support
 
