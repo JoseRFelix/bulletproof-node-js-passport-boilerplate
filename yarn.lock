@@ -1150,6 +1150,14 @@ convert-source-map@^1.1.0, convert-source-map@^1.4.0:
   dependencies:
     safe-buffer "~5.1.1"
 
+cookie-parser@^1.4.4:
+  version "1.4.6"
+  resolved "https://registry.yarnpkg.com/cookie-parser/-/cookie-parser-1.4.6.tgz#3ac3a7d35a7a03bbc7e365073a26074824214594"
+  integrity sha512-z3IzaNjdwUC2olLIB5/ITd0/setiaFMLYiZJle7xg5Fe9KWAceil7xszYfHHBtDFYLSgJduS2Ty0P1uJdPDJeA==
+  dependencies:
+    cookie "0.4.1"
+    cookie-signature "1.0.6"
+
 cookie-signature@1.0.6:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/cookie-signature/-/cookie-signature-1.0.6.tgz#e303a882b342cc3ee8ca513a79999734dab3ae2c"
@@ -1164,6 +1172,11 @@ cookie@0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.4.0.tgz#beb437e7022b3b6d49019d088665303ebe9c14ba"
   integrity sha512-+Hp8fLp57wnUSt0tY0tHEXh4voZRDnoIrZPqlo3DPiI4y9lwg/jqx+1Om94/W6ZaPDOUbnjOt/99w66zk+l1Xg==
+
+cookie@0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.4.1.tgz#afd713fe26ebd21ba95ceb61f9a8116e50a537d1"
+  integrity sha512-ZwrFkGJxUR3EIoXtO+yVE69Eb7KlixbaeAWfBQB9vVsNn/o+Yw69gBWSSDK825hQNdN+wF8zELf3dFNl/kxkUA==
 
 copy-descriptor@^0.1.0:
   version "0.1.1"
@@ -3049,11 +3062,9 @@ json-stringify-safe@~5.0.1:
   integrity sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=
 
 json5@2.x, json5@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.1.0.tgz#e7a0c62c48285c628d20a10b85c89bb807c32850"
-  integrity sha512-8Mh9h6xViijj36g7Dxi+Y4S6hNGV96vcJZr/SrlHh1LR/pEn/8j/+qIBbs44YKl69Lrfctp4QD+AdWLTMqEZAQ==
-  dependencies:
-    minimist "^1.2.0"
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
+  integrity sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==
 
 jsonwebtoken@^8.1.0, jsonwebtoken@^8.2.0:
   version "8.5.1"
